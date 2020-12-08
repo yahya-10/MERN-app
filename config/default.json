@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://yahyaakermi:yahyaakermi@final-project-cluster.fdogq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jsonWebTokenSecret": "helloWorld"
+  }
+  
